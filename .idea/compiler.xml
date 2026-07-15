@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SLF4J_Logging_Exercises" />
         <module name="Configuring_Basic_Spring_Application" />
+        <module name="Configuring_Basic_Spring_Application (1)" />
         <module name="Mockito_Exercises" />
         <module name="JUnit_Basic_Testing_Exercises" />
         <module name="SLF4J" />

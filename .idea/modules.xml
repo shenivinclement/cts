@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaFSE/Week 2/SpringCoreAndMaven/Creating-Configuring-Maven-Project/Configuring_Basic_Spring_Application.iml" filepath="$PROJECT_DIR$/JavaFSE/Week 2/SpringCoreAndMaven/Creating-Configuring-Maven-Project/Configuring_Basic_Spring_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFSE/Week 2/SpringCoreAndMaven/Implementing-Dependency-Injection/Configuring_Basic_Spring_Application (1).iml" filepath="$PROJECT_DIR$/JavaFSE/Week 2/SpringCoreAndMaven/Implementing-Dependency-Injection/Configuring_Basic_Spring_Application (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/DigitalNurture-JavaFSE.iml" filepath="$PROJECT_DIR$/DigitalNurture-JavaFSE.iml" />
     </modules>
   </component>
