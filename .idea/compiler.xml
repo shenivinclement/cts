@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Configuring_Basic_Spring_Application (1)" />
         <module name="SLF4J" />
+        <module name="Spring_Data_JPA_Quick_Example" />
         <module name="SLF4J_Logging_Exercises" />
         <module name="Creating_Configuring_Maven_Project" />
         <module name="Mockito_Exercises" />
@@ -18,5 +19,10 @@
       <module name="Configuring_Basic_Spring_Application" target="17" />
       <module name="Exercise-1-Configuring-Basic-Spring-Application" target="17" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring_Data_JPA_Quick_Example" options="-parameters" />
+    </option>
   </component>
 </project>
