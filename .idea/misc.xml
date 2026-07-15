@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/JavaFSE/Week1/JUnit/pom.xml" />
         <option value="$PROJECT_DIR$/JavaFSE/Week1/Mockito/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaFSE/Week1/SLF4J/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaFSE/Week1/SLF4J/Exercise-1-Logging-Error-Warning-Levels/pom.xml" />
       </list>
     </option>
   </component>
