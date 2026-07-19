@@ -20,6 +20,8 @@
         <option value="$PROJECT_DIR$/JavaFSE/Week 3/SpringREST/1-spring-rest-handson/Country-Web-Service/pom.xml" />
         <option value="$PROJECT_DIR$/JavaFSE/Week 3/SpringREST/1-spring-rest-handson/Get-Country-By-Code/ pom.xml" />
         <option value="$PROJECT_DIR$/JavaFSE/Week 3/SpringREST/1-spring-rest-handson/JWT-Auth-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaFSE/Week 3/Microservices/2-Microservices-with-API-gateway/Account-Loan-Services/account-service/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaFSE/Week 3/Microservices/2-Microservices-with-API-gateway/Account-Loan-Services/loan-service/pom.xml" />
       </list>
     </option>
   </component>
