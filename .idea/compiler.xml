@@ -7,15 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Load_Country_From_XML" />
+        <module name="Get_Country_By_Code" />
+        <module name="Spring_Data_JPA_Quick_Example" />
+        <module name="Create_Spring_Web_Project" />
         <module name="Configuring_Basic_Spring_Application (1)" />
         <module name="Week 3" />
         <module name="Country-Web-Service" />
-        <module name="Get_Country_By_Code" />
-        <module name="Spring_Data_JPA_Quick_Example" />
+        <module name="JWT_Auth_Service" />
         <module name="SLF4J_Logging_Exercises" />
         <module name="Creating_Configuring_Maven_Project" />
         <module name="Mockito_Exercises" />
-        <module name="Create_Spring_Web_Project" />
         <module name="Hello-World-REST" />
         <module name="JUnit_Basic_Testing_Exercises" />
       </profile>
@@ -32,6 +33,7 @@
       <module name="Create_Spring_Web_Project" options="-parameters" />
       <module name="Get_Country_By_Code" options="-parameters" />
       <module name="Hello-World-REST" options="-parameters" />
+      <module name="JWT_Auth_Service" options="-parameters" />
       <module name="Spring_Data_JPA_Quick_Example" options="-parameters" />
       <module name="Week 3" options="-parameters" />
     </option>

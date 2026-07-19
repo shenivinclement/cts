@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/JavaFSE/Week 3/SpringREST/1-spring-rest-handson/Hello-World-REST/pom.xml" />
         <option value="$PROJECT_DIR$/JavaFSE/Week 3/SpringREST/1-spring-rest-handson/Country-Web-Service/pom.xml" />
         <option value="$PROJECT_DIR$/JavaFSE/Week 3/SpringREST/1-spring-rest-handson/Get-Country-By-Code/ pom.xml" />
+        <option value="$PROJECT_DIR$/JavaFSE/Week 3/SpringREST/1-spring-rest-handson/JWT-Auth-Service/pom.xml" />
       </list>
     </option>
   </component>
