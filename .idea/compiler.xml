@@ -9,6 +9,7 @@
         <module name="Load_Country_From_XML" />
         <module name="Configuring_Basic_Spring_Application (1)" />
         <module name="Week 3" />
+        <module name="Country-Web-Service" />
         <module name="Spring_Data_JPA_Quick_Example" />
         <module name="SLF4J_Logging_Exercises" />
         <module name="Creating_Configuring_Maven_Project" />
@@ -26,6 +27,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Country-Web-Service" options="-parameters" />
       <module name="Create_Spring_Web_Project" options="-parameters" />
       <module name="Hello-World-REST" options="-parameters" />
       <module name="Spring_Data_JPA_Quick_Example" options="-parameters" />
