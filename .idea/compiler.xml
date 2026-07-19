@@ -6,23 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Load_Country_From_XML" />
         <module name="Configuring_Basic_Spring_Application (1)" />
-        <module name="SLF4J" />
+        <module name="Week 3" />
         <module name="Spring_Data_JPA_Quick_Example" />
         <module name="SLF4J_Logging_Exercises" />
         <module name="Creating_Configuring_Maven_Project" />
         <module name="Mockito_Exercises" />
+        <module name="Create_Spring_Web_Project" />
         <module name="JUnit_Basic_Testing_Exercises" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Configuring_Basic_Spring_Application" target="17" />
       <module name="Exercise-1-Configuring-Basic-Spring-Application" target="17" />
+      <module name="SLF4J" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Create_Spring_Web_Project" options="-parameters" />
       <module name="Spring_Data_JPA_Quick_Example" options="-parameters" />
+      <module name="Week 3" options="-parameters" />
     </option>
   </component>
 </project>
