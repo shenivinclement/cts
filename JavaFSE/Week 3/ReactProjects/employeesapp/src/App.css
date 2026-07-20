@@ -1,0 +1,17 @@
+.card {
+  padding: 15px;
+  border-radius: 6px;
+  width: 200px;
+}
+
+.light {
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid #ccc;
+}
+
+.dark {
+  background-color: #333333;
+  color: #ffffff;
+  border: 1px solid #000;
+}
