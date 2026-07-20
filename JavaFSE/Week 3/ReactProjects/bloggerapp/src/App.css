@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  gap: 30px;
+  padding: 20px;
+}
+
+.st2,
+.v1,
+.mystyle1 {
+  border-left: 3px solid green;
+  padding: 0 20px;
+}
